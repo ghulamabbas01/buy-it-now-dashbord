@@ -1,0 +1,17 @@
+{
+  "GENDER_OPTION": ["men", "women", "kids", "others"],
+  "STATUS_OPTIONS": ["sale", "new", "regular", "disabled"],
+  "TAGS_OPTION": ["New", "Sale", "Featured", "Top", "Best"],
+  "SIZES": ["XS", "SM", "LG", "XL", "XXL", "free"],
+  "COLORS": [
+    "aqua",
+    "black",
+    "blue",
+    "brown",
+    "gold",
+    "grey",
+    "green",
+    "white",
+    "yellow"
+  ]
+}

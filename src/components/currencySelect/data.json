@@ -1,0 +1,59 @@
+{
+  "countries": [
+    {
+      "countryCode": "US",
+      "countryName": "United States",
+      "currencyCode": "USD"
+    },
+    {
+      "countryCode": "GB",
+      "countryName": "United Kingdom",
+      "currencyCode": "GBP"
+    },
+    {
+      "countryCode": "SA",
+      "countryName": "Saudi Arabia",
+      "currencyCode": "SAR"
+    },
+    {
+      "countryCode": "IT",
+      "countryName": "Italy",
+      "currencyCode": "EUR"
+    },
+    {
+      "countryCode": "JP",
+      "countryName": "Japan",
+      "currencyCode": "JPY"
+    },
+    {
+      "countryCode": "IN",
+      "countryName": "India",
+      "currencyCode": "INR"
+    },
+    {
+      "countryCode": "CN",
+      "countryName": "China",
+      "currencyCode": "CNY"
+    },
+    {
+      "countryCode": "TR",
+      "countryName": "Turkey",
+      "currencyCode": "TRY"
+    },
+    {
+      "countryCode": "RU",
+      "countryName": "Russia",
+      "currencyCode": "RUB"
+    },
+    {
+      "countryCode": "IR",
+      "countryName": "Iran",
+      "currencyCode": "IRR"
+    },
+    {
+      "countryCode": "PK",
+      "countryName": "Pakistan",
+      "currencyCode": "PKR"
+    }
+  ]
+}

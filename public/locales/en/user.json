@@ -1,0 +1,11 @@
+{
+    "user":"User",
+    "email":"Email",
+    "phone":"Phone",
+    "joined":"Joined",
+    "status":"Status",
+    "actions":"Actions",
+    "dashboard":"Dashboard",
+    "users":"Users",
+    "details":"Details"
+}
